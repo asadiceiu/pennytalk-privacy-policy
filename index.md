@@ -14,4 +14,4 @@ PennyTalk does not collect, store, or transmit any personal data.
 
 If you have any concerns, you may contact the developer at [asadiceiu@gmail.com].
 
-_Last updated: August 8, 2025_
+_Last updated: August 7, 2025_
